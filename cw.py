@@ -1,3 +1,5 @@
+# KEY: Really excellent job both with comments and testing all the expected outcomes! 
+
 def main():
     def quest1():
     #Create a function that has a loop that quits with ```q```.

@@ -1,3 +1,5 @@
+### KEY: Really excellent job both with comments and testing all the expected outcomes! 
+
 # Python Review of Misc Topics - JavaScript/Python comparison, Loops, Functions
 
 ### Problem 1:
